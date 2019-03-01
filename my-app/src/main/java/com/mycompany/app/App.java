@@ -1,14 +1,14 @@
 package com.mycompany.app;
 
 /**
- * Hello world!
+ * “Hello Good Morning- ID 101”
  *
  */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "“Hello Good Morning- ID 101”" );
 
         System.out.println("A NullPointerException is a drag...");
         Object myObject = null;
